@@ -2,3 +2,6 @@
 	path = nvim/dot-config
 	url = https://github.com/filippofontana/kickstart.nvim.git
 	branch = custom-configuration
+[submodule "ghostty/dot-config"]
+	path = ghostty/dot-config
+	url = https://github.com/filippofontana/ghostty-config.git
