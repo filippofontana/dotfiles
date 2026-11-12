@@ -35,5 +35,6 @@ instruction:
 stow --target=<target_dir> --dotfiles <program_name>
 ```
 
-> **NOTE**:
+> [!note]
+>
 > usually \<`target_dir`> is `$HOME`.
