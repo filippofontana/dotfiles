@@ -5,3 +5,6 @@
 [submodule "ghostty/dot-config"]
 	path = ghostty/dot-config
 	url = https://github.com/filippofontana/ghostty-config.git
+[submodule "tmux/dot-config"]
+	path = tmux/dot-config
+	url = https://github.com/filippofontana/tmux.git
