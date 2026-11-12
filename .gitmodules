@@ -1,0 +1,4 @@
+[submodule "nvim/config"]
+	path = nvim/dot-config
+	url = https://github.com/filippofontana/kickstart.nvim.git
+	branch = custom-configuration
