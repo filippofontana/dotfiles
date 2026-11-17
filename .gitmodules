@@ -6,7 +6,7 @@
 	path = ghostty/dot-config/ghostty
 	url = https://github.com/filippofontana/ghostty-config.git
 [submodule "tmux/dot-config"]
-	path = tmux/dot-config
+	path = tmux/dot-config/tmux
 	url = https://github.com/filippofontana/tmux.git
 [submodule "zsh/dot-oh-my-zsh/custom/themes/powerlevel10k"]
 	path = zsh/dot-oh-my-zsh/custom/themes/powerlevel10k
