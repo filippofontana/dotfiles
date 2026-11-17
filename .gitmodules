@@ -17,3 +17,6 @@
 [submodule "zsh/dot-oh-my-zsh/custom/plugins/zsh-syntax-highlighting"]
 	path = zsh/dot-oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 	url = https://github.com/zsh-users/zsh-syntax-highlighting
+[submodule "starship/dot-config/starship"]
+	path = starship/dot-config/starship
+	url = https://github.com/filippofontana/starship-configuration.git
